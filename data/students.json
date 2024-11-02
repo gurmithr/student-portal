@@ -1,0 +1,7 @@
+[
+  { "firstName": "Aarav", "lastName": "Sharma", "dob": "2005-05-10", "grade": "10" },
+  { "firstName": "Ishita", "lastName": "Mehta", "dob": "2006-09-12", "grade": "9" },
+  { "firstName": "Rohan", "lastName": "Patel", "dob": "2004-02-15", "grade": "11" },
+  { "firstName": "Simran", "lastName": "Kaur", "dob": "2007-07-20", "grade": "8" },
+  { "firstName": "Priya", "lastName": "Nair", "dob": "2005-11-25", "grade": "10" }
+]
